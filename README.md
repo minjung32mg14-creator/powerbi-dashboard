@@ -81,9 +81,4 @@ This dashboard was designed to help answer the following operational questions:
 This project uses the **DataCo Global Supply Chain Dataset**, which contains transactional data related to global supply chain operations including orders, products, shipping methods, and customer information.
 
 Dataset Source:  
-Kaggle – DataCo Global Supply Chain Dataset
-
----
-
-## Repository Structure
-
+https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis/data?select=DataCoSupplyChainDataset.csv
