@@ -1,6 +1,6 @@
 # DataCo Supply Chain Operations Dashboard
 
-## Project Overview
+## 👩‍💻 Project Overview
 
 This project presents an interactive **Power BI dashboard** designed to analyze operational performance within a global supply chain dataset.
 
