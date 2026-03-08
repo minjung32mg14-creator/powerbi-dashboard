@@ -16,7 +16,13 @@ The analysis focuses on three key perspectives:
 
 ## Dashboard Preview
 
-![Dashboard Preview](images/dashboard_preview.png)
+[Dashboard Preview](images/dashboard_preview.png)
+
+## Power BI File
+
+Download the Power BI dashboard file:
+
+[Download PBIX](dashboard/datacoglobal.pbix)
 
 ---
 
@@ -64,11 +70,9 @@ This dashboard was designed to help answer the following operational questions:
 ## Tools & Skills Demonstrated
 
 - Power BI
-- Data Modeling
 - DAX Measures
 - Data Visualization
-- Business Performance Analysis
-- Operational KPI Monitoring
+- Business Analysis
 
 ---
 
