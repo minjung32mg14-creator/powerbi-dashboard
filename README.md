@@ -1,6 +1,6 @@
-## DataCo Supply Chain Operations Dashboard
+# DataCo Supply Chain Operations Dashboard
 
-### 👩‍💻 Project Overview
+## 👩‍💻Project Overview
 
 This project presents an interactive **Power BI dashboard** designed to analyze operational performance within a global supply chain dataset.
 
@@ -9,16 +9,16 @@ The dashboard transforms raw operational data into actionable insights to suppor
 The analysis focuses on three key perspectives:
 
 - Sales & Operations Performance
-- Delivery & Operational Risk
-- Customer Behavior and Segmentation
+- Delivery & Risk
+- Customer Segmentation
 
 ---
 
-## Dashboard Preview
+## 📊Dashboard Preview
 
 [Dashboard Preview](images/dashboard_preview.png)
 
-## Power BI File
+## 📬Power BI File
 
 Download the Power BI dashboard file:
 
@@ -26,7 +26,7 @@ Download the Power BI dashboard file:
 
 ---
 
-## Business Questions
+## 🔍Business Questions
 
 This dashboard was designed to help answer the following operational questions:
 
@@ -38,7 +38,7 @@ This dashboard was designed to help answer the following operational questions:
 
 ---
 
-## Key Insights
+## 💡Key Insights
 
 ### Sales & Operations
 
@@ -67,7 +67,7 @@ This dashboard was designed to help answer the following operational questions:
 
 ---
 
-## Tools & Skills Demonstrated
+## 📔Tools & Skills Demonstrated
 
 - Power BI
 - DAX Measures
@@ -76,9 +76,9 @@ This dashboard was designed to help answer the following operational questions:
 
 ---
 
-## Dataset
+## 📁Dataset
 
 This project uses the **DataCo Global Supply Chain Dataset**, which contains transactional data related to global supply chain operations including orders, products, shipping methods, and customer information.
 
-Dataset Source:  
+🧷Dataset Source:  
 https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis/data?select=DataCoSupplyChainDataset.csv
