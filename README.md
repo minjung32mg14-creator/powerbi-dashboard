@@ -1,4 +1,5 @@
-# DataCo Supply Chain Operations Dashboard
+# Operations Performance Dashboard
+Analysis based on the DataCo Global Supply Chain Dataset
 
 ## 👩‍💻Project Overview
 
