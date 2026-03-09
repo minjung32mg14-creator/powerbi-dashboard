@@ -16,7 +16,7 @@ The analysis focuses on three key perspectives:
 
 ## 📊Dashboard Preview
 
-[Dashboard Preview](images/dashboard_preview.png)
+![Dashboard Preview](images/dashboard_preview.png)
 
 ## 📬Power BI File
 
