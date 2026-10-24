@@ -25,7 +25,7 @@ The analysis focuses on three key perspectives:
 
 Download the Power BI dashboard file:
 
-[Download PBIX](dashboard/datacoglobal.pbix)
+[Download PBIX](datacoglobal.pbix)
 
 ---
 
