@@ -56,7 +56,7 @@ This dashboard was designed to help answer the following operational questions:
 
 - The overall **on-time delivery rate is only 42.6%**, indicating potential logistics inefficiencies.
 - **First Class shipping shows the highest delay rate (~95%)**, despite being a premium shipping option.
-- **Second Class shipping experiences the longest average delay (~4 days)**.
+- **Second Class shipping experiences the longest average delay (~2 days)**.
 - High-volume regions also show **higher late delivery risk**, suggesting operational capacity constraints.
 
 ---
